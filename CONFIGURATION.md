@@ -19,7 +19,7 @@ secrets:
 - `source:` (optional) — name of the GitHub Actions secret (or variable, for entries under `variables:`)
   on this repo to read the value from. Defaults to the value of the `name` field.
   Use when the destination name on target repos differs from the source name stored here
-  (e.g., a JACOBPEVANS-prefixed source published under a generic canonical alias).
+  (e.g., a amatos-prefixed source published under a generic canonical alias).
 
 ## Two-tier distribution
 
