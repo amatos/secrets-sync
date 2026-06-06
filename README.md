@@ -1,10 +1,10 @@
 # secrets-sync
 
-[![Sync Secrets](https://github.com/JacobPEvans/secrets-sync/actions/workflows/sync-secrets.yml/badge.svg)](https://github.com/JacobPEvans/secrets-sync/actions/workflows/sync-secrets.yml)
-[![License](https://img.shields.io/github/license/JacobPEvans/secrets-sync)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/JacobPEvans/secrets-sync)](https://github.com/JacobPEvans/secrets-sync/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/JacobPEvans/secrets-sync)](https://github.com/JacobPEvans/secrets-sync)
-[![Forks](https://img.shields.io/github/forks/JacobPEvans/secrets-sync?style=flat)](https://github.com/JacobPEvans/secrets-sync/network/members)
+[![Sync Secrets](https://github.com/amatos/secrets-sync/actions/workflows/sync-secrets.yml/badge.svg)](https://github.com/amatos/secrets-sync/actions/workflows/sync-secrets.yml)
+[![License](https://img.shields.io/github/license/amatos/secrets-sync)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/amatos/secrets-sync)](https://github.com/amatos/secrets-sync/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/amatos/secrets-sync)](https://github.com/amatos/secrets-sync)
+[![Forks](https://img.shields.io/github/forks/amatos/secrets-sync?style=flat)](https://github.com/amatos/secrets-sync/network/members)
 
 Centralized GitHub Actions secret and variable management. Define once, sync everywhere automatically.
 

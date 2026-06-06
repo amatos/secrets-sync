@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.16.0.1](https://github.com/amatos/secrets-sync/compare/v0.16.0...v0.16.0.1) (2026-06-06)
+
+
+### Miscellaneous Chores
+
+* **fork:** forked repository from JacobPEvans/secrets-sync ([8a8e702](https://github.com/amatos/secrets-sync/commit/8a8e7028fd2f7bde1bd540b2e8eb62098369e66d))
+  * Updated `CODEOWNERS` to `@amatos`
+  * Updated `README.md` badges and links to point to `amatos/secrets-sync`
+  * Updated `renovate.json` preset source and assignee to `amatos`
+  * Trimmed `secrets-config.yml` repo distribution lists to only include repos relevant to this fork; emptied unused anchors (`_infra_repos`, `_doppler_variable_repos`, `_ai_model_repos`, `_claude_bot_repos`, `_runson_repos`)
+
 ## [0.16.0](https://github.com/JacobPEvans/secrets-sync/compare/v0.15.0...v0.16.0) (2026-05-24)
 
 
